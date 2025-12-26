@@ -23,7 +23,12 @@ Ikuti langkah berikut untuk menjalankan backend pada komputer lokal:
 
 Jika project ada di GitHub:
 
+<<<<<<< HEAD
 git clone https://github.com/ajikharisma/backend-laravel-coffee-shop-app
+=======
+git clone [https://github.com/username/laravel-coffee-backend.git
+cd laravel-coffee-backend](https://github.com/ajikharisma/backend-laravel-coffee-shop-app)
+>>>>>>> 964a09ab14e391064c93642f01e4148afb842484
 
 
 Jika project masih lokal → langsung masuk ke folder project:
